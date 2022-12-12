@@ -76,7 +76,9 @@ section .title::after{
     background: #fff;
     transform: translateX(-50%);
 }
-
+button{
+    baground-color:crimson;
+}
 /* navbar styling */
 .navbar{
     position: fixed;
